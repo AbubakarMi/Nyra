@@ -1,0 +1,7 @@
+**/bin/
+**/obj/
+**/.vs/
+**/appsettings.Development.json
+**/appsettings.Local.json
+**/Migrations/*.Designer.cs
+**/Migrations/*.sql
