@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nyra.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6640f643db4de96f798224a25aeb3bacce268c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df5c8461f15d4d9f670b3985805e89a36b36d795")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nyra.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nyra.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
